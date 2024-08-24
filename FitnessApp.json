@@ -1,0 +1,148 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Push-Up",
+      "description": "A fundamental bodyweight exercise that targets the chest, shoulders, and triceps.",
+      "recommendation": "Maintain a straight body line from head to heels."
+    },
+    {
+      "id": 2,
+      "name": "Squat",
+      "description": "A lower body exercise that works the quads, hamstrings, and glutes.",
+      "recommendation": "Keep your knees aligned with your toes."
+    },
+    {
+      "id": 3,
+      "name": "Bench Press",
+      "description": "A chest exercise performed by pressing a weight upwards while lying on a bench.",
+      "recommendation": "Keep your feet flat on the ground and retract your shoulder blades."
+    },
+    {
+      "id": 4,
+      "name": "Lunges",
+      "description": "A lower body exercise that involves stepping forward and lowering your hips until both knees are bent at about a 90-degree angle.",
+      "recommendation": "Ensure your front knee does not extend past your toes."
+    },
+    {
+      "id": 5,
+      "name": "Plank",
+      "description": "A core exercise that involves holding a position similar to a push-up for an extended period.",
+      "recommendation": "Engage your core and keep your hips level."
+    },
+    {
+      "id": 6,
+      "name": "Deadlift",
+      "description": "A full-body exercise that primarily targets the lower back, glutes, and hamstrings.",
+      "recommendation": "Keep your back straight and lift with your legs."
+    },
+    {
+      "id": 7,
+      "name": "Overhead Press",
+      "description": "An upper body exercise that targets the shoulders and triceps by pressing weights overhead.",
+      "recommendation": "Engage your core and avoid arching your back."
+    },
+    {
+      "id": 8,
+      "name": "Bent-Over Row",
+      "description": "A back exercise that involves pulling a weight towards your torso while bent over.",
+      "recommendation": "Keep your back straight and squeeze your shoulder blades together."
+    },
+    {
+      "id": 9,
+      "name": "Bicep Curl",
+      "description": "An isolation exercise that targets the biceps by curling weights towards your shoulders.",
+      "recommendation": "Keep your elbows close to your body and avoid swinging the weights."
+    },
+    {
+      "id": 10,
+      "name": "Tricep Dips",
+      "description": "An upper body exercise that targets the triceps by lowering and raising your body using parallel bars.",
+      "recommendation": "Keep your elbows close to your body and avoid leaning forward."
+    },
+    {
+      "id": 11,
+      "name": "Mountain Climbers",
+      "description": "A cardio exercise that involves alternating knee drives towards your chest while in a plank position.",
+      "recommendation": "Maintain a steady pace and keep your core engaged."
+    },
+    {
+      "id": 12,
+      "name": "Burpees",
+      "description": "A full-body exercise that combines a squat, push-up, and jump into one movement.",
+      "recommendation": "Perform each movement with control and maintain good form throughout."
+    },
+    {
+      "id": 13,
+      "name": "Leg Press",
+      "description": "A lower body exercise that targets the quads, hamstrings, and glutes using a leg press machine.",
+      "recommendation": "Push through your heels and avoid locking your knees at the top."
+    },
+    {
+      "id": 14,
+      "name": "Cable Row",
+      "description": "A back exercise performed using a cable machine to pull a weight towards your torso.",
+      "recommendation": "Keep your chest up and pull the weight towards your lower rib cage."
+    },
+    {
+      "id": 15,
+      "name": "Russian Twist",
+      "description": "A core exercise that involves rotating your torso from side to side while holding a weight or medicine ball.",
+      "recommendation": "Engage your core and maintain a steady movement."
+    },
+    {
+      "id": 16,
+      "name": "Reverse Crunch",
+      "description": "A core exercise that targets the lower abs by lifting your hips off the ground while lying on your back.",
+      "recommendation": "Avoid using momentum; focus on controlled movements."
+    },
+    {
+      "id": 17,
+      "name": "Chest Fly",
+      "description": "A chest exercise performed by lying on a bench and bringing weights together above your chest.",
+      "recommendation": "Keep a slight bend in your elbows and avoid overstretching."
+    },
+    {
+      "id": 18,
+      "name": "Kettlebell Swing",
+      "description": "A full-body exercise that involves swinging a kettlebell from between your legs to shoulder height.",
+      "recommendation": "Use your hips and legs to generate momentum, not your arms."
+    },
+    {
+      "id": 19,
+      "name": "Dumbbell Shoulder Press",
+      "description": "An upper body exercise that targets the shoulders by pressing dumbbells overhead.",
+      "recommendation": "Keep your back straight and press the weights directly overhead."
+    },
+    {
+      "id": 20,
+      "name": "Side Plank",
+      "description": "A core exercise that involves holding a plank position on one side of your body.",
+      "recommendation": "Keep your body in a straight line and avoid letting your hips drop."
+    },
+    {
+      "id": 21,
+      "name": "Hammer Curl",
+      "description": "A bicep exercise where you curl weights with your palms facing each other.",
+      "recommendation": "Keep your elbows stationary and focus on contracting your biceps."
+    },
+    {
+      "id": 22,
+      "name": "Walking Lunge",
+      "description": "A variation of the lunge where you step forward into a lunge and then walk forward into the next lunge.",
+      "recommendation": "Keep your torso upright and ensure your front knee does not go past your toes."
+    },
+    {
+      "id": 23,
+      "name": "Box Jump",
+      "description": "A plyometric exercise that involves jumping onto and off of a box or platform.",
+      "recommendation": "Land softly with your knees slightly bent and use your arms for momentum."
+    },
+    {
+      "id": 24,
+      "name": "Tricep Kickback",
+      "description": "An isolation exercise that targets the triceps by extending the arms behind you while holding dumbbells.",
+      "recommendation": "Keep your upper arms stationary and focus on extending your forearms."
+    }
+  ]
+}
